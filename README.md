@@ -1,13 +1,6 @@
-GROUP MEMBER #1:
-   NAME: Kai Ibarrondo
-   RUID: kai51
-   RUID Number: 210004237
-
-GROUP MEMBER #2:
-   NAME: Davis Nguyen
-   RUID: dhn28
-   RUID Number: 210007132
-
+AUTHORS:
+• Kai Ibarrondo
+• Davis Nguyen
 
 PROJECT DESCRIPTION:
 Multithreaded web crawler in C that includes the following functionalities:
@@ -70,7 +63,4 @@ FEATURES DOCUMENTATION:
    any errors encountered.
  - Other logging includes Thread IDs doing the work, which URLs are being processed, extracted links, 
    current depth levels, and when crawling has been completed for all threads.
-
-
-CONTRIBUTIONS:
- • All group members worked together equally on all code.
+   
